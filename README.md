@@ -1,28 +1,18 @@
 # Bestflix
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bestflix`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Ruby Gem that provides a CLI view of the top rated movies currently on Netflix.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'bestflix'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Type the following in Terminal to install the gem:
 
     $ gem install bestflix
 
 ## Usage
 
-TODO: Write usage instructions here
+Type the following and follow the prompts:
+
+    $ bestflix
 
 ## Development
 
@@ -38,4 +28,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
